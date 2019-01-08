@@ -14,3 +14,5 @@ class Scrabble
     return value
   end
 end
+
+#test
